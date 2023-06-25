@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="181.38222mm"
+   height="71.956841mm"
+   viewBox="0 0 181.38222 71.956841"
    version="1.1"
    id="svg5"
    xml:space="preserve"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="366.75"
-     inkscape:cy="440"
+     inkscape:cx="283.75"
+     inkscape:cy="153"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -38,9 +38,9 @@
      inkscape:current-layer="g8832" /><defs
      id="defs2"><rect
        x="118.44038"
-       y="388.55517"
-       width="671.75143"
-       height="204.0003"
+       y="388.55518"
+       width="671.7514"
+       height="204.00031"
        id="rect5056" /><inkscape:path-effect
        effect="bend_path"
        id="path-effect4937"
@@ -75,7 +75,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     style="display:inline"><g
+     style="display:inline"
+     transform="translate(-9.7709798,-76.088896)"><g
        id="g6946"
        inkscape:label="PillInside"
        transform="matrix(1.0411113,0,0,1.0016041,-1.0255355,-0.20701565)"
@@ -139,7 +140,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.333px;font-family:ESF-Rounded;-inkscape-font-specification:'ESF-Rounded Bold';white-space:pre;shape-inside:url(#rect5056);display:inline;fill:#ffffff"><tspan
            x="118.43945"
            y="508.69874"
-           id="tspan3455">epilepsy</tspan></text></g><path
+           id="tspan1559">epilepsy</tspan></text></g><path
        id="rect2485"
        style="display:inline;fill:#000000;stroke-width:0.261325"
        d="m 45.749146,76.088896 c -19.932072,0 -35.9781662,16.046094 -35.9781662,35.978164 0,19.93207 16.0460942,35.97868 35.9781662,35.97868 H 155.17451 c 19.93207,0 35.97868,-16.04661 35.97868,-35.97868 0,-19.93207 -16.04661,-35.978164 -35.97868,-35.978164 z m -0.01034,3.827673 H 155.00191 c 17.87173,0 32.25901,14.387802 32.25901,32.259531 0,17.87173 -14.38728,32.25953 -32.25901,32.25953 H 45.73881 c -17.871727,0 -32.259529,-14.3878 -32.259529,-32.25953 0,-17.871729 14.387802,-32.259531 32.259529,-32.259531 z"
