@@ -24,3 +24,9 @@ Download: [SVG](epilepsy-green.svg) | [PNG](epilepsy-green.png)
 ![red and black pill with written in black Epilepsy in the middle](epilepsy-red.png)
 
 Download: [SVG](epilepsy-red.svg) | [PNG](epilepsy-red.png)
+
+### Purple
+
+![purple and black pill with written in black Epilepsy in the middle](epilepsy-purple.png)
+
+Download: [SVG](epilepsy-purple.svg) | [PNG](epilepsy-purple.png)
