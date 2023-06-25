@@ -9,24 +9,24 @@ Also available within NeosVR in the following folder: `neosrec:///U-j4/R-ba3eff0
 
 ### Blue
 
-![blue and white pill with written in black Epilepsy in the middle](epilepsy-blue.png)
+![blue and white pill with written in black Epilepsy in the middle](epilepsy-blue.svg)
 
 Download: [SVG](epilepsy-blue.svg) | [PNG](epilepsy-blue.png)
 
 ### Green
 
-![green and white pill with written in black Epilepsy in the middle](epilepsy-green.png)
+![green and white pill with written in black Epilepsy in the middle](epilepsy-green.svg)
 
 Download: [SVG](epilepsy-green.svg) | [PNG](epilepsy-green.png)
 
 ### Red
 
-![red and black pill with written in black Epilepsy in the middle](epilepsy-red.png)
+![red and black pill with written in black Epilepsy in the middle](epilepsy-red.svg)
 
 Download: [SVG](epilepsy-red.svg) | [PNG](epilepsy-red.png)
 
 ### Purple
 
-![purple and black pill with written in black Epilepsy in the middle](epilepsy-purple.png)
+![purple and black pill with written in black Epilepsy in the middle](epilepsy-purple.svg)
 
 Download: [SVG](epilepsy-purple.svg) | [PNG](epilepsy-purple.png)
